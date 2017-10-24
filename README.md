@@ -1,11 +1,11 @@
 # Face Tracking using ARKit and Vision framework
 
-# Compatibility
+## Compatibility
 
 ARKit requires an iOS device with an A9 or later processor.
 Vision framework requires an iOS 11 and above
 
-# Basic Impelentation
+## Basic Impelentation
 
 1. Add ARSCNView to your controller
 2. Create Confguration 
@@ -24,6 +24,6 @@ After Implementation above 4 steps you can Run and check the output will be Devi
 
 
         
-# Version: 1.0
+## Version: 1.0
 
 
