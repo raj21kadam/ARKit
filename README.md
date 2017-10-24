@@ -9,9 +9,10 @@ Vision framework requires an iOS 11 and above
 
 1. Add ARSCNView to your controller
 2. Create Confguration 
-   ``` let configuration = ARWorldTrackingConfiguration()
-         configuration.planeDetection = .horizontal // flat surface in camera captured images
-        ```
+   ```
+      let configuration = ARWorldTrackingConfiguration()
+      configuration.planeDetection = .horizontal // flat surface in camera captured images
+   ```
 3. Add Configuration to SceneView session and Run session
 4. Now Add Camera usage description Privacy key in Info.plist
 
