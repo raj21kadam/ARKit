@@ -22,11 +22,11 @@
   
 4. Now Add Camera usage description Privacy key in Info.plist
   
-
-After Implementation above 4 steps you can Run and output will be Device camera session
-
 5. Now set sesion delegate to track AR Session behaviour 
-  For eg: Session interrupted, Resumed, failed 
+   For eg: Session interrupted, Resumed, failed 
+
+   After Implementation above 5 steps you can Run and check is everything we implemented is correct. 
+   Output will be Device running camera session and check the delegate logs
   
     
  
