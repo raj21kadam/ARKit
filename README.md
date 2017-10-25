@@ -2,9 +2,11 @@
 
 ## Compatibility
 
-iOS 11 and above
-ARKit requires an iOS device with an A9 or later processor.
-Vision framework requires an iOS 11 and above
+> iOS 11 and above
+
+> ARKit requires an iOS device with an A9 or later processor.
+
+> Vision framework requires an iOS 11 and above
 
 ## Basic Impelentation
 
