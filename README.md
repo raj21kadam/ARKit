@@ -25,7 +25,7 @@
 5. Now set sesion delegate to track AR Session behaviour 
    For eg: Session interrupted, Resumed, failed 
 
-   After Implementation above 5 steps you can Run and check is everything we implemented is correct. 
+   After above 5 steps you can Run and check is everything we implemented is correct. 
    Output will be Device running camera session and check the delegate logs
   
     
